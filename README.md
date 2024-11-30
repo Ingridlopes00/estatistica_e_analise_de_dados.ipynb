@@ -1,4 +1,4 @@
-# estatistica_e_analise_de_dados.ipynb
+# Projeto estatistica_e_analise_de_dados.ipynb
 ## Este projeto explora um conjunto de dados sobre motos, utilizando estatística descritiva, visualizações e modelagem preditiva. As principais etapas incluem:
 
 ### Limpeza e análise dos dados.
